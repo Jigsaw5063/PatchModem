@@ -1,8 +1,6 @@
 # PatchModem after croosflash to EU firmware.
 
 ## Introduction
-This module enables VoLTE & VoWiFi & 5G in unsupported carriers worldwide :)
-
 Enable Network and Mobile Data after croosflash to EU firmware.
 
 Added MBNs for many regions but not sure if it will work properly as it is not signed with LG certificate.
