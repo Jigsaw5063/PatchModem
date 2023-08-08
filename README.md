@@ -20,21 +20,17 @@ This module designed for the LG V60, but it should work for other models as well
 - Enables VoLTE
 - Enables VoWiFi
 - Enables 5G support
-- Properly loads MBN back, when the network connection is poor/dropped
+- Added more MBN for carriers, i am not sure will it work because we have to LG certificed MBNs.
 
 ## Verified
 - LG V60, ATT - Mexico City > 5G - VoLTE & VoWiFi
-- Pixel 5 - Orange Romania - VoLTE & VoWiFi & 5G
-- Pixel 5 - Orange T-Mobile - VoLTE & VoWiFi
+- LG V60, ATT - Orange Romania - VoLTE & VoWiFi & 5G
+- LG V60, ATT - Orange T-Mobile - VoLTE & VoWiFi
 
-## Difference between this module and ender-zhao module
-- Doesn't enforce 5G
-- After loosing connection to the network provider the original module didn't load MBN back again. We had to restart Pixel5
-
-# Credits
-- Big thanks to [mightyvenom](https://forum.xda-developers.com/m/mightyvenom.4163960/) from XDA with testing module and feedback
+# Patched modem images
+- If you don't have root you can use [Patched Modem image](https://forum.xda-developers.com/t/modem-patched-or-pdc-tool-fixed-lte-mobile-data.4537979/) also you can comment there for your feedback.
 - Big thanks to ender-zhao for providing initial Magisk Module
 
-# QPST/EFS Method
-There's a old method with loading MBNs directly to the MODEM NV in folder `QPST EFS Method`
-You can use it if this module doesn't work and you have proper MBN.
+# QPST/EFS Method or via PDC tool
+There's a  method with loading MBNs directly to the MODEM NV in folder `QPST EFS Method` or Load via PDC tool.
+You can use it if this module or image doesn't work and you have proper MBN.
