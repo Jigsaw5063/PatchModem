@@ -29,7 +29,7 @@ This module designed for the LG V60, but it should work for other models as well
 
 # Patched modem images
 - If you don't have root you can use [Patched Modem image](https://forum.xda-developers.com/t/modem-patched-or-pdc-tool-fixed-lte-mobile-data.4537979/) also you can comment there for your feedback.
-- Big thanks to ender-zhao for providing initial Magisk Module
+- 
 
 # QPST/EFS Method or via PDC tool
 There's a  method with loading MBNs directly to the MODEM NV in folder `QPST EFS Method` or Load via PDC tool.
