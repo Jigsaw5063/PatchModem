@@ -11,7 +11,7 @@ This module designed for the LG V60, but it should work for other models as well
 
 
 ## Usage - How to use
-1. Download latest version from [Release page](https://github.com/stanislawrogasik/Pixel5-VoLTE-VoWiFi/releases)
+1. Download latest version from [Release page](https://)
 2. Flash in Magisk
 3. Reboot & enjoy 
 
@@ -23,7 +23,7 @@ This module designed for the LG V60, but it should work for other models as well
 - Added more MBN for carriers, i am not sure will it work because we have to LG certificed MBNs.
 
 ## Verified
-- LG V60, ATT - Mexico City > 5G - VoLTE & VoWiFi
+- **LG V60**, ATT - Mexico City > 5G - VoLTE & VoWiFi
 - LG V60, ATT - Orange Romania - VoLTE & VoWiFi & 5G
 - LG V60, ATT - Orange T-Mobile - VoLTE & VoWiFi
 
