@@ -1,10 +1,14 @@
-# 2Pixel 5 VoLTE VoWiFi 5G in unsupported countries
+# PatchModem after croosflash to EU firmware.
+
 ## Introduction
 This module enables VoLTE & VoWiFi & 5G in unsupported carriers worldwide :)
 
-Check MBNs in the folder: `/system/vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw/generic` in this repo, if you want to see if your country is available within this module.
+Enable Network and Mobile Data after croosflash to EU firmware.
 
-If not, send private message on XDA to [me](https://forum.xda-developers.com/m/vortuks.5945472/)
+Added MBNs for many regions but not sure if it will work properly as it is not signed with LG certificate.
+Check MBNs in the folder: `/system/vendor/firmware_mnt/image/modem_pr/mcfg/configs/mcfg_sw/generic/` in this repo, if you want to see if your country is available within this module.
+This module designed for the LG V60, but it should work for other models as well.
+
 
 ## Usage - How to use
 1. Download latest version from [Release page](https://github.com/stanislawrogasik/Pixel5-VoLTE-VoWiFi/releases)
@@ -19,7 +23,7 @@ If not, send private message on XDA to [me](https://forum.xda-developers.com/m/v
 - Properly loads MBN back, when the network connection is poor/dropped
 
 ## Verified
-- Pixel 5 - StockOS - Orange Poland - VoLTE & VoWiFi
+- LG V60, ATT - Mexico City > 5G - VoLTE & VoWiFi
 - Pixel 5 - Orange Romania - VoLTE & VoWiFi & 5G
 - Pixel 5 - Orange T-Mobile - VoLTE & VoWiFi
 
