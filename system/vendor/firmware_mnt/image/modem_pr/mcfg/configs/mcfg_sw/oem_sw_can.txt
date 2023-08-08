@@ -1,0 +1,7 @@
+mcfg_sw/generic/NA/Bell/Commercial/CA/mcfg_sw.mbn
+mcfg_sw/generic/NA/Est/Commercial/CA/mcfg_sw.mbn
+mcfg_sw/generic/NA/Rogers/Commercial/CA/mcfg_sw.mbn
+mcfg_sw/generic/NA/Telus/Commercial/CA/mcfg_sw.mbn
+mcfg_sw/generic/NA/Wind/Commercial/CA/mcfg_sw.mbn
+mcfg_sw/generic/NA/Telus/ROW/mcfg_sw.mbn
+mcfg_sw/generic/NA/Telus/Lab/TEST/mcfg_sw.mbn

@@ -1,0 +1,2 @@
+mcfg_sw/generic/NA/Sprint/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/NA/Sprint/ROW/mcfg_sw.mbn

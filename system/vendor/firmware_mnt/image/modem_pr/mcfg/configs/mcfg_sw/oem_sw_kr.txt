@@ -1,0 +1,4 @@
+mcfg_sw/generic/Korea/KT/Commercial_KT_LTE/mcfg_sw.mbn
+mcfg_sw/generic/Korea/LGU/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Korea/SKT/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Korea/ROW/Commercial/mcfg_sw.mbn

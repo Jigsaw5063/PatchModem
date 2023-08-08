@@ -1,0 +1,9 @@
+mcfg_sw/generic/NA/ATT/VoLTE/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/5G/mcfg_sw.mbn
+mcfg_sw/generic/NA/TRF/Commercial/ATT/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/FirstNet/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/ROW/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/Cricket/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/FirstNet_American_Samoa/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/FirstNet_Guam_CNMI/mcfg_sw.mbn
+mcfg_sw/generic/NA/ATT/Non_VoLTE/mcfg_sw.mbn

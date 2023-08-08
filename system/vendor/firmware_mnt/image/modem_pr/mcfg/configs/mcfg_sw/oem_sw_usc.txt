@@ -1,0 +1,2 @@
+mcfg_sw/generic/NA/USCC/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/NA/USCC/ROW/mcfg_sw.mbn

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles date="2022-12-12" revision="1">
+    <profile operator="OPEN" country="EU">
+        <info mcc="202" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--COSMOTE Greece-->
+        </info>
+        <info mcc="202" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Greece-->
+        </info>
+        <info mcc="202" mnc="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--WIND Greece-->
+        </info>
+        <info mcc="204" mnc="02" gid="4E4C">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Netherlands-->
+        </info>
+        <info mcc="204" mnc="04">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Netherlands-->
+        </info>
+        <info mcc="204" mnc="08">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--KPN Netherlands-->
+        </info>
+        <info mcc="204" mnc="12">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--KPN Netherlands-->
+        </info>
+        <info mcc="204" mnc="16">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Netherlands-->
+        </info>
+        <info mcc="204" mnc="16" gid="4E4C">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Netherlands-->
+        </info>
+        <info mcc="204" mnc="16" gid="8F">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Netherlands-->
+        </info>
+        <info mcc="204" mnc="16" spn="Ben NL">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--DTAG MVNOs (BEN + SIMPEL) Netherlands-->
+        </info>
+        <info mcc="204" mnc="18">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--KPN Netherlands-->
+        </info>
+        <info mcc="204" mnc="20">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Netherlands-->
+        </info>
+        <info mcc="204" mnc="69">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--KPN Netherlands-->
+        </info>
+        <info mcc="206" mnc="01" gid="2800000000000000">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VIRGIN MOBILE United Kingdom-->
+        </info>
+        <info mcc="214" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Spain-->
+        </info>
+        <info mcc="214" mnc="03" spn="Orange">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ORANGE Spain-->
+        </info>
+        <info mcc="214" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELEFONICA Spain-->
+        </info>
+        <info mcc="214" mnc="07">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELEFONICA Spain-->
+        </info>
+        <info mcc="214" mnc="37">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Spain-->
+        </info>
+        <info mcc="216" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telenor Hungary-->
+        </info>
+        <info mcc="216" mnc="03">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Digi Hungary-->
+        </info>
+        <info mcc="216" mnc="30">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telekom HU Hungary-->
+        </info>
+        <info mcc="216" mnc="70">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Hungary-->
+        </info>
+        <info mcc="219" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Croatia-->
+        </info>
+        <info mcc="219" mnc="01" gid="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bonbon Croatia-->
+        </info>
+        <info mcc="219" mnc="01" gid="11">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bonbon Croatia-->
+        </info>
+        <info mcc="219" mnc="01" gid="12">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bonbon Croatia-->
+        </info>
+        <info mcc="219" mnc="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--A1 HR Croatia-->
+        </info>
+        <info mcc="222" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TIM Italy-->
+        </info>
+        <info mcc="222" mnc="01" imsi="22201309xxxxxxx">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--NOVA Iceland-->
+        </info>
+        <info mcc="222" mnc="01" gid="434F4F50FFFFFFFFFF">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="01" spn="COOP">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="01" spn="COOP !OBILE">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="01" spn="COOP MOBILE">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="01" spn="CoopVoce">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="01" spn="Kena Mobile R">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Kena Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="06">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Italy-->
+        </info>
+        <info mcc="222" mnc="07">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Kena Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="08">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--FASTWEB Italy-->
+        </info>
+        <info mcc="222" mnc="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Italy-->
+        </info>
+        <info mcc="222" mnc="10" gid="20">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ho mobile Italy-->
+        </info>
+        <info mcc="222" mnc="10" spn="PosteMobile">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--POSTEMOBILE Italy-->
+        </info>
+        <info mcc="222" mnc="10" spn="ho.">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ho mobile Italy-->
+        </info>
+        <info mcc="222" mnc="33" spn="PosteMobile">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--POSTEMOBILE Italy-->
+        </info>
+        <info mcc="222" mnc="53">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Coop Mobile Italy-->
+        </info>
+        <info mcc="222" mnc="88">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--WINDTRE Italy-->
+        </info>
+        <info mcc="222" mnc="88" gid="0000000099">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Very Italy-->
+        </info>
+        <info mcc="222" mnc="88" spn="VERY">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Very Italy-->
+        </info>
+        <info mcc="222" mnc="99">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--WINDTRE Italy-->
+        </info>
+        <info mcc="222" mnc="99" gid="0000000099">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Very Italy-->
+        </info>
+        <info mcc="222" mnc="99" spn="FASTWEB">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--FASTWEB Italy-->
+        </info>
+        <info mcc="222" mnc="99" spn="VERY">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Very Italy-->
+        </info>
+        <info mcc="226" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Romania-->
+        </info>
+        <info mcc="226" mnc="10" spn="orange">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ORANGE Romania-->
+        </info>
+        <info mcc="228" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--Swisscom Switzerland-->
+        </info>
+        <info mcc="228" mnc="01" gid="D8">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--FASTWEB Italy-->
+        </info>
+        <info mcc="228" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--SUNRISE Switzerland-->
+        </info>
+        <info mcc="230" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Czech Republic-->
+        </info>
+        <info mcc="230" mnc="03">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Czech Republic-->
+        </info>
+        <info mcc="231" mnc="01" spn="Orange">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ORANGE Slovakia-->
+        </info>
+        <info mcc="231" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telekom Slovakia-->
+        </info>
+        <info mcc="232" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--A1 Austria-->
+        </info>
+        <info mcc="232" mnc="03">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Austria-->
+        </info>
+        <info mcc="232" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--3 AT Austria-->
+        </info>
+        <info mcc="232" mnc="07">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--T-MOBILE Austria-->
+        </info>
+        <info mcc="232" mnc="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--3 AT Austria-->
+        </info>
+        <info mcc="232" mnc="14">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--3 AT Austria-->
+        </info>
+        <info mcc="234" mnc="08" gid="B2">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--EE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="15" gid="B3">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bt United Kingdom-->
+        </info>
+        <info mcc="234" mnc="20">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--HUTCHISON United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--EE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30" gid="2800000000000000">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VIRGIN MOBILE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30" spn="ASDA Mobile">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ASDA United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30" gid="B2">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bt United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30" gid="B3">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--EE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="30" gid="C3">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--EE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="33">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--EE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="33" gid="2800000000000000">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VIRGIN MOBILE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="38" gid="2800000000000000">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VIRGIN MOBILE United Kingdom-->
+        </info>
+        <info mcc="234" mnc="76" gid="B1">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bt United Kingdom-->
+        </info>
+        <info mcc="234" mnc="76" gid="C1">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Bt United Kingdom-->
+        </info>
+        <info mcc="235" mnc="94">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--HUTCHISON United Kingdom-->
+        </info>
+        <info mcc="240" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--HUTCHISON Sweden-->
+        </info>
+        <info mcc="240" mnc="04">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--HUTCHISON Sweden-->
+        </info>
+        <info mcc="240" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Sweden-->
+        </info>
+        <info mcc="240" mnc="07">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Sweden-->
+        </info>
+        <info mcc="240" mnc="24">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--TELE2 Sweden-->
+        </info>
+        <info mcc="244" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ELISA Finland-->
+        </info>
+        <info mcc="260" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--PLUS Poland-->
+        </info>
+        <info mcc="260" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--T-MOBILE Poland-->
+        </info>
+        <info mcc="260" mnc="02" gid="23">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="0" />
+            <!--Heyah Poland-->
+        </info>
+        <info mcc="260" mnc="03" spn="Orange">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--ORANGE Poland-->
+        </info>
+        <info mcc="260" mnc="03" spn="nju">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Nju_Mobile Poland-->
+        </info>
+        <info mcc="260" mnc="06">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="1" />
+            <!--Play Poland-->
+        </info>
+        <info mcc="260" mnc="12" spn="Cyfrowy Polsat">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--PLUS Poland-->
+        </info>
+        <info mcc="260" mnc="44">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--PLUS Poland-->
+        </info>
+        <info mcc="260" mnc="98">
+            <prop support_volte="1" support_vilte="1" support_vowifi="1" support_viwifi="1" />
+            <!--Play Poland-->
+        </info>
+        <info mcc="262" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telekom Germany-->
+        </info>
+        <info mcc="262" mnc="01" gid="44">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Congstar Germany-->
+        </info>
+        <info mcc="262" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Vodafone Germany-->
+        </info>
+        <info mcc="262" mnc="03">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--O2D Germany-->
+        </info>
+        <info mcc="262" mnc="07">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--O2D Germany-->
+        </info>
+        <info mcc="262" mnc="09">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Vodafone Germany-->
+        </info>
+        <info mcc="268" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--VODAFONE Portugal-->
+        </info>
+        <info mcc="274" mnc="11">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--NOVA Iceland-->
+        </info>
+        <info mcc="274" mnc="11" imsi="27411309xxxxxxx">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--NOVA Iceland-->
+        </info>
+        <info mcc="276" mnc="02">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Vodafone Albania-->
+        </info>
+        <info mcc="280" mnc="01">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Cyta Cyprus-->
+        </info>
+        <info mcc="280" mnc="10">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Mtn Cyprus-->
+        </info>
+        <info mcc="284" mnc="03">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--BTC Bulgaria-->
+        </info>
+        <info mcc="284" mnc="05">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telenor BG Bulgaria-->
+        </info>
+        <info mcc="293" mnc="40">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Simobil Slovenia-->
+        </info>
+        <info mcc="293" mnc="41">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Mobitel Slovenia-->
+        </info>
+        <info mcc="293" mnc="70">
+            <prop support_volte="1" support_vilte="1" support_vowifi="0" support_viwifi="0" />
+            <!--Telemach Slovenia-->
+        </info>
+    </profile>
+</profiles>

@@ -1,0 +1,2 @@
+mcfg_sw/generic/NA/TMO/Lab/TEST/mcfg_sw.mbn
+mcfg_sw/generic/NA/TMO/ROW/mcfg_sw.mbn
