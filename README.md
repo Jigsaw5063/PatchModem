@@ -9,7 +9,7 @@ This module designed for the LG V60, but it should work for other models as well
 
 
 ## Usage - How to use
-1. Download latest version from [Release page](https://)
+1. Download latest version from [Release page](https://github.com/Jigsaw5063/PatchModem/releases)
 2. Flash in Magisk
 3. Reboot & enjoy 
 
