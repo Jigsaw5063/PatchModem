@@ -22,8 +22,8 @@ This module designed for the LG V60, but it should work for other models as well
 
 ## Verified
 - **LG V60**, ATT - Mexico City > 5G - VoLTE & VoWiFi
-- LG V60, ATT - Orange Romania - VoLTE & VoWiFi & 5G
-- LG V60, ATT - Orange T-Mobile - VoLTE & VoWiFi
+- LG V60, ATT - Orange, Romania, T-Mobile - VoLTE & VoWiFi & 5G
+- LG V60,
 
 # Patched modem images
 - If you don't have root you can use [Patched Modem image](https://forum.xda-developers.com/t/modem-patched-or-pdc-tool-fixed-lte-mobile-data.4537979/) also you can comment there for your feedback.
