@@ -147,10 +147,10 @@ mount_mirrors() {
 }
 
 # Credits
-ui_print "**************************************"
-ui_print "*  MMT Extended Next by Ali BEYAZ  **"
-ui_print "**************************************"
-ui_print " "
+#ui_print "**************************************"
+#ui_print "*  MMT Extended Next by Ali BEYAZ  **"
+#ui_print "**************************************"
+#ui_print " "
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
